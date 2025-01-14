@@ -136,7 +136,7 @@ Bu proje, **Redis**'in aşağıdaki özelliklerini anlamanıza yardımcı olur:
 
 ## 👩‍💻 Geliştirici
 
-- **Ersin Şahin**
+- **Şahin Ersever**
   - **GitHub:** [github.com/erseversahin](https://github.com/erseversahin)
   - **Udemy Redis Eğitimi için Test Uygulaması**
 
